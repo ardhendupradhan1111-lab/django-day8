@@ -1,2 +1,3 @@
-# django-day8
+# project
+
 Django project deployed on AWS EC2
